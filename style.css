@@ -150,7 +150,8 @@ a:hover {
 
 section {
   padding-top: 4vh;
-  height: 96vh;
+  padding-bottom: 4vh;
+  /* height: 96vh; */
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
@@ -159,7 +160,12 @@ section {
 .section-container {
   display: flex;
 }
-
+.text-container {
+  font-size:large;
+  font-weight: 400;
+  line-height: 3;
+  padding-top: 2vh;
+}
 /* PROFILE SECTION */
 
 #profile {
