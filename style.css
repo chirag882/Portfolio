@@ -386,6 +386,10 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+.project-des{
+  padding: 20px;
+}
+
 /* CONTACT */
 
 #contact {
